@@ -5,6 +5,8 @@ description: Icons for the STAR educational tools. Image courtesy MIT Office of 
 file: /courses/res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012/3a9a88f9833bf51a6cde7d0e3c4814ad_res-tl-002s12-th.jpg
 file_size: 8935
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Icons for the STAR educational tools. (Image courtesy MIT Office of Educational
     Innovation and Technology.)
